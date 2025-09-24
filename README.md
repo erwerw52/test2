@@ -21,12 +21,12 @@ This is an interactive web application built with Streamlit that allows you to e
 2.  **Run the Streamlit application:**
 
     ```bash
-    streamlit run app.py --server.port 8086
+    streamlit run app.py --server.port 8501
     ```
 
 3.  **Open the application in your browser:**
 
-    The application will be available at `http://localhost:8086`.
+    The application will be available at `http://localhost:8501`.
 
 ## How to Use
 
