@@ -41,7 +41,7 @@ To deploy this application, you can use Streamlit Cloud or any other platform th
 
 The first step for deployment is to upload your code to a GitHub repository.
 
-My deployed Streamlit application: [https://aiothw1-5114056034.streamlit.app/]( https://aiothw1-5114056034.streamlit.app/)
+## My deployed Streamlit application: ## [https://aiothw1-5114056034.streamlit.app/]( https://aiothw1-5114056034.streamlit.app/)
 
 1.  **Initialize a Git repository and commit your files:**
 
